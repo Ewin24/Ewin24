@@ -1,31 +1,49 @@
-### ¡Hola! 👋, soy Edwin Trigos[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Ewin24/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/tu-usuario-linkedin/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='email' height='30'>](mailto:tu-correo@email.com)
+# ¡Hola! Soy Edwin Trigos 👋
 
-Soy un Desarrollador de Software enfocado en construir, optimizar y refactorizar aplicaciones escalables de nivel empresarial. Me apasiona el código limpio (Clean Code), la arquitectura de software (FSD, Clean Architecture) y la resolución de problemas complejos. 
+<a href="https://github.com/Ewin24/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/tu-usuario-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:tu-correo@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-Actualmente trabajo modernizando sistemas ERP, optimizando bases de datos y creando integraciones con Inteligencia Artificial generativa. Siempre estoy dispuesto a aprender nuevas tecnologías y mejorar el rendimiento de los sistemas.
+Soy un Desarrollador Full-Stack e Ingeniero de Software enfocado en la construcción de sistemas escalables, microservicios y aplicaciones de alto rendimiento. Me apasiona el código limpio (Clean Code) y el diseño de arquitecturas robustas que resuelven problemas complejos de negocio.
 
-🛠️ **Mi Stack Tecnológico:**
+Tengo amplia experiencia modernizando sistemas empresariales (ERPs), integrando Inteligencia Artificial generativa y construyendo flujos de datos complejos utilizando los ecosistemas de **.NET** y **Java**. Siempre estoy aprendiendo y buscando nuevos desafíos para crecer como profesional.
 
-- **Backend:** C#, .NET 8 / .NET Core, ASP.NET MVC, Web API, Python.
-- **Frontend:** React 19, TypeScript, Tailwind CSS, JavaScript, jQuery, Bootstrap, HTML5, CSS3.
-- **Bases de Datos & ORMs:** SQL Server (T-SQL Avanzado, Procedimientos Almacenados, Optimización), MySQL, Entity Framework, Dapper, NHibernate.
-- **Cloud & DevOps:** Azure (Linux VMs, Azure DevOps), AWS (EC2, RDS, IAM, S3), Docker (Compose, System Prune), Nginx (Reverse Proxy, SSL/TLS).
-- **Arquitectura & Patrones:** Feature-Sliced Design (FSD), Clean Architecture, Servicios RESTful, JWT, Background Services.
-- **Herramientas & Integraciones:** Git (Avanzado), Postman (Scripts & Testing automatizado), SSMS, DBeaver, Google Gemini API, InfoBip (SMS/Email), Crystal Reports.
+---
 
-🧠 **Soft Skills:**
-- Resolución analítica de problemas y depuración (Debugging).
-- Refactorización y modernización de código legado.
-- Capacidad de adaptación y aprendizaje continuo.
-- Trabajo en equipo.
+### 🚀 Mi Stack Tecnológico
+
+Aquí están las tecnologías, lenguajes y principios con los que trabajo para construir software de calidad:
+
+| Backend & Frameworks | Arquitectura & Frontend | Bases de Datos | Cloud, DevOps & Herramientas |
+| :--- | :--- | :--- | :--- |
+| ☕ **Java 17+** (EE, Swing) | 🧼 Arquitectura Limpia | 🗄️ **SQL Server** (T-SQL Avanzado) | ☁️ **AWS** (ECS, SQS, RDS, Fargate) |
+| 🍃 Spring Boot & WebFlux | 헥 Arquitectura Hexagonal | 🐘 PostgreSQL | ☁️ **Azure** (VMs, Repos) |
+| 🔷 **C# / .NET 8** | 🌐 Microservicios | 🐬 MySQL | 🐳 Docker & Nginx |
+| 🌐 ASP.NET MVC & Web API | ⚛️ React 19 & TypeScript | ⚡ Spring Data R2DBC | 🐙 Git, GitHub & Azure DevOps |
+| ⛓️ Project Reactor | 🎨 Tailwind CSS & Bootstrap | 🧩 Entity Framework & Dapper | 🛠️ Gradle, Maven & SonarLint |
+| 🤖 Integración IA (Gemini) | 🏗️ Feature-Sliced Design (FSD)| 📦 H2 (para pruebas) | 🧪 Postman (Testing automatizado)|
+
+---
+
+### 🌱 En lo que estoy trabajando actualmente
+
+*   🏗️ Desarrollando **"CrediYa"**, un sistema de microservicios para la gestión de préstamos, implementando un flujo completamente reactivo (Spring WebFlux / Project Reactor) desde la API hasta la base de datos.
+*   ⚙️ Modernizando módulos de sistemas ERPs, optimizando consultas complejas en SQL Server y refactorizando código legado hacia arquitecturas más limpias.
+*   🤖 Implementando y configurando Agentes de Inteligencia Artificial (Google Gemini) para la automatización y análisis de datos estructurados.
+*   ☁️ Profundizando en el despliegue de aplicaciones con contenedores en arquitecturas Serverless como AWS Fargate.
+*   🧪 Mejorando mis habilidades en TDD (Test-Driven Development) y pruebas de integración para sistemas distribuidos.
 
 ---
 
 ### 📊 Mis Estadísticas de GitHub
 
-![Estadísticas de Edwin](https://github-readme-stats.vercel.app/api?username=Ewin24&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ewin24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Edwin" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewin24&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Top" />
+</div>
 
-![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Ewin24&layout=compact&theme=tokyonight&hide_border=true)
+<br>
 
----
-*Siempre en busca de escribir código que mi yo del futuro agradezca leer.* 🚀
+<div align="center">
+  <i>Siempre en busca de escribir código que mi "yo" del futuro agradezca leer.</i> 🚀
+</div>
