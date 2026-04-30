@@ -1,8 +1,8 @@
 # ¡Hola! Soy Edwin Trigos 👋
 
 <a href="https://github.com/Ewin24/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/tu-usuario-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:tu-correo@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/edwintrigosguevara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:edwintrigos24@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 Soy un Desarrollador Full-Stack e Ingeniero de Software enfocado en la construcción de sistemas escalables, microservicios y aplicaciones de alto rendimiento. Me apasiona el código limpio (Clean Code) y el diseño de arquitecturas robustas que resuelven problemas complejos de negocio.
 
